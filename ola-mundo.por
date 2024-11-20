@@ -1,5 +1,5 @@
-programa{
-    inicio() {
+programa {
+   funcao inicio() {
         escreva("Olá Mundo")
         }
 }
